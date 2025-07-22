@@ -29,6 +29,5 @@ Este proyecto fue desarrollado para practicar el uso del **DOM (Document Object 
 
 ## ✨ Autor
 Naim Federico Paz
-Desarrollador Frontend Jr.
 
 ![Mario moviéndose](./img/Super%20Mario%20Dancing%20GIF.gif)
